@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ill_eof_identity</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="60" cy="60" r="60"></circle>
+    </defs>
+    <g id="Finals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ill_eof_identity">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#12326B" stroke-width="2" cx="60" cy="60" r="59"></circle>
+            </g>
+            <path d="M87.45,105.77 C62.5693282,105.761326 40.1874241,90.6425022 30.8901318,67.5641951 C21.5928395,44.485888 27.2436773,18.0738361 45.17,0.82 C20.3119403,7.0435772 1.99371079,28.1397398 -0.681660597,53.624999 C-3.35703198,79.1102582 10.1809032,103.550592 33.2046278,114.800665 C56.2283525,126.050739 83.8286986,121.711787 102.29,103.94 C97.4368913,105.155158 92.4529263,105.769757 87.45,105.77 Z" id="Shape" fill="#231F20" fill-rule="nonzero" opacity="0.1" mask="url(#mask-2)"></path>
+            <path d="M35.67,30.64 C35.67,30.64 26.21,26.47 38.27,25.24 C39.56,25.11 43.47,25.24 43.47,25.24 L75.81,25.24 C77.9694334,25.24 79.72,26.9905666 79.72,29.15 L79.72,30.48" id="Shape" fill="#E6E7E8" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <path d="M34.9,30.29 L83.54,30.66 C85.6994334,30.66 87.45,32.4105666 87.45,34.57 L87.45,90.85 C87.45,93.0094334 85.6994334,94.76 83.54,94.76 L36.35,94.76 L35.29,94.6 L33.84,93.34 L32.78,90.84 L32.6,28.28 C32.7593299,29.4291768 33.7398372,30.2860549 34.9,30.29 Z" id="Shape" fill="#0091FF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <path d="M75.81,94.76 L36.68,94.76 C34.52,94.76 32.77,93.01 32.77,91.85 L32.59,29.29" id="Shape" stroke="#444444" stroke-width="1.93" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M44.23,30.65 L83.53,30.65 C84.5669965,30.65 85.5615203,31.0619452 86.2947875,31.7952125 C87.0280548,32.5284797 87.44,33.5230035 87.44,34.56 L87.44,90.85 C87.44,93.0094334 85.6894334,94.76 83.53,94.76 L51.61,94.76" id="Shape" stroke="#444444" stroke-width="1.93" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <path d="M43.91,30.64 L35.24,30.64 C34.5265661,30.6373528 33.8434048,30.3514009 33.3408062,29.8450516 C32.8382077,29.3387023 32.5573429,28.6534339 32.56,27.94 L32.56,27.94 C32.5573429,27.2265661 32.8382077,26.5412977 33.3408062,26.0349484 C33.8434048,25.5285991 34.5265661,25.2426472 35.24,25.24 L42.8,25.24" id="Shape" stroke="#444444" stroke-width="1.93" stroke-linecap="square" mask="url(#mask-2)"></path>
+            <circle id="Oval" fill="#4585C5" fill-rule="nonzero" mask="url(#mask-2)" cx="60.22" cy="51.34" r="7.72"></circle>
+            <path d="M74,79.35 C74,69.71 67.84,61.89 60.23,61.89 C52.62,61.89 46.5,69.71 46.5,79.35 L74,79.35 Z" id="Shape" stroke="#444444" stroke-width="1.93" fill="#E6E7E8" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" mask="url(#mask-2)"></path>
+            <circle id="Oval" stroke="#444444" stroke-width="1.93" fill="#E6E7E8" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" mask="url(#mask-2)" cx="60.27" cy="51.33" r="7.72"></circle>
+            <path d="M36.06,25.24 L75.81,25.24 C77.9694334,25.24 79.72,26.9905666 79.72,29.15 L79.72,30.48" id="Shape" stroke="#444444" stroke-width="1.93" stroke-linecap="round" mask="url(#mask-2)"></path>
+            <path d="M42.34,94.76 C42.59,74.76 42.48,62.2 42.53,58.21 C42.63,49.21 42.53,42.98 42.53,31.21 C39.66,31.21 35.89,32.59 34.12,30.21 C32.35,27.83 33.65,36.49 33.58,43.81 C33.46,57.1 32.53,82.81 33.19,93.64" id="Shape" fill="#231F20" fill-rule="nonzero" opacity="0.1" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
